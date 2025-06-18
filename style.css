@@ -13,6 +13,16 @@ html {
 .flex {
     display: flex;
     align-items: center;
+    justify-content: space-around;
+}
+
+#pizza img {
+    width: 200px;
+}
+
+.destaque {
+    color: white;
+    padding: 50px;
 }
 
 /* header */
@@ -30,21 +40,17 @@ html {
 
 .scripit-h1 {
     color: #20df20;
-    font-size: 30px;
-}
-
-.scripit-p {
-    color: red;
-    font-size: 25px;
+    font-size: 50px;
 }
 
 .scripit-h2 {
-    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
     font-size: 40px;
 }
 
 .logo-img img {
-    width: 600px;
+    width: 650px;
 }
 
 /* Primeiro */
@@ -54,6 +60,7 @@ html {
 }
 
 .um-scripit-h2 h2 {
+    font-family: 'Times New Roman', Times, serif;
     color: #20df20;
 }
 
