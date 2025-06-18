@@ -10,6 +10,11 @@ html {
     background-color: black;
 }
 
+.flex {
+    display: flex;
+    align-items: center;
+}
+
 /* header */
 
 .inicial {
@@ -19,11 +24,12 @@ html {
 .inicial .flex {
     display: flex;
     justify-content: space-evenly;
+    text-align: left;
     align-items: center;
 }
 
 .scripit-h1 {
-    color: rgb(32, 223, 32);
+    color: #20df20;
     font-size: 30px;
 }
 
@@ -39,4 +45,22 @@ html {
 
 .logo-img img {
     width: 600px;
+}
+
+/* Primeiro */
+
+.primeiro {
+    padding: 50px 5%;
+}
+
+.um-scripit-h2 h2 {
+    color: #20df20;
+}
+
+.um-scripit-p p {
+    color: red;
+}
+
+.um-scripit-h3 h3 {
+    color: white;
 }
