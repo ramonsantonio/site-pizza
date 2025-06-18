@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+/* header */
+
+.inicial {
+    padding: 50px 5%;
+}
+
+.inicial .flex {
+    display: flex;
+}
+
+.scripit-h1 {
+    color: rgb(32, 223, 32);
+}
+
+.scripit-p {
+    color: red;
+}
+
+.scripit-h2 {
+    color: white;
+}
