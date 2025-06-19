@@ -71,3 +71,26 @@ html {
 .um-scripit-h3 h3 {
     color: white;
 }
+
+/* segundo */
+
+.segundo {
+    padding: 50px 5%;
+    background-color: red;
+}
+
+.scripit-segundo .scripit-h2 {
+    color: #20df20;
+    padding-bottom: 10px;
+}
+
+.scripit-segundo .scripit-p {
+    color: white;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.scripit-segundo .scripit-h3 {
+    color: #20df20;
+    font-size: 70px;
+}
