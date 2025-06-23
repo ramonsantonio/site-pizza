@@ -145,3 +145,11 @@ html {
 .delivre-img img {
     width: 300px;
 }
+
+/* footer */
+
+footer {
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
